@@ -1,4 +1,4 @@
-[![GitHub version](https://badge.fury.io/gh/ghost1372%2FMzip-Android.svg)](https://badge.fury.io/gh/ghost1372%2FMzip-Android)
+[![](https://jitpack.io/v/TalebRafiepour/Mzip-Android.svg)](https://jitpack.io/#TalebRafiepour/Mzip-Android)
 
 # Mzip-Android
 An Android compress and extract library support popular compression format such as rar, zip
