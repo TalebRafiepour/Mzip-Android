@@ -21,13 +21,16 @@ Other open source projects have been used to write this library.
 # Download
 You can use Gradle:
 ```gradle
-repositories {
- maven { url 'https://jitpack.io' }
-}
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
 
 dependencies {
-  compile 'com.github.ghost1372:Mzip-Android:0.4.0'
-}
+	        implementation 'com.github.TalebRafiepour:Mzip-Android:0.5.0'
+	}
 ```
 <br>
 
